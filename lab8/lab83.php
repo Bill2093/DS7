@@ -8,7 +8,7 @@
 </head>
 <body>
     <h3>Aplicación web con imagen dinámica</h3>
-    <form name="form" method="post" action="Lab81.php">
+    <form name="form" method="post" action="lab81.php">
         <p>Desempeño de ventas realizadas <input type="text" name="valorV" /></p>
         <input type="submit" value="Ingresar">
     </form>
